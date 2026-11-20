@@ -72,9 +72,6 @@ BREW-AND-BLOOM/
 - Create an admin dashboard.
 - Add a real-time table availability system.
 
-## 👨‍💻 Author
-
-**Nilesh Maurya**
 
 B.Tech – Computer Science and Information Technology
 
